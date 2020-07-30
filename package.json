@@ -1,0 +1,19 @@
+{
+  "name": "wf-server",
+  "version": "1.0.0",
+  "description": "Weatherflow Event Listener. Receives event from UDP and websocket and then write to the configured databaes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyneaxis/wf-server.git"
+  },
+  "author": "Brandon Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyneaxis/wf-server/issues"
+  },
+  "homepage": "https://github.com/nyneaxis/wf-server#readme"
+}
